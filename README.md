@@ -1,3 +1,9 @@
+# Modern UI website using react and tailwind CSS
+
+Used multiple rich assets to give a high quality touch to the website and used many libraries of react to create a great visual effect on the website.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
