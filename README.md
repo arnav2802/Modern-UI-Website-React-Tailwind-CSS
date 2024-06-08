@@ -1,4 +1,4 @@
-# Modern UI website using react and tailwind CSS
+# Modern UI website using reactjs and tailwind CSS
 
 Used multiple rich assets to give a high quality touch to the website and used many libraries of react to create a great visual effect on the website.
 
